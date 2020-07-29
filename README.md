@@ -1,5 +1,5 @@
 # Data-security-in-Cloud-Computing
-## Introdcuction
+## Introduction
 <p>Ce projet consiste à concevoir une nouvelle approche qui combine entre le Cloud
 Computing et la cryptographie. En effet, le Cloud Computing ou l’informatique en nuage est un
 nouveau paradigme de déploiement de systèmes informatique, il offre beaucoup d’avantages en
